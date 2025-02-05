@@ -1,7 +1,7 @@
 # Weather Rock
 
-As smiple as the name, I was srocilling through the web for a somtheing cool,fun and creative to build and I came along a reddit post takig about app ideas one of them was the  a weather app that  use a rock.
+As simple as the name, I was scrolling through the web for something cool, fun, and creative to build when I came across a Reddit post talking about app ideas. One of them was a weather app that uses a rock.
 
-Baiscly, deaping on the weater  the rock would change, i thught that was hillurlsy but also simple at the same time, so i thought to my self why not build app that does this, then put up on the web, ios and andriod..
+Basically, depending on the weather, the rock would change. I thought that was hilariously simple at the same time, so I thought to myself, 'Why not build an app that does this, then put it on the web, iOS, and Android?'
 
-Here we are, weather rock.
+Here we are—Weather Rock.
